@@ -1,0 +1,7 @@
+C:\Users\fzr60\Documents\projects\cSharp\test\tdd\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\fzr60\Documents\projects\cSharp\test\tdd\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\fzr60\Documents\projects\cSharp\test\tdd\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\fzr60\Documents\projects\cSharp\test\tdd\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\Users\fzr60\Documents\projects\cSharp\test\tdd\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\fzr60\Documents\projects\cSharp\test\tdd\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\fzr60\Documents\projects\cSharp\test\tdd\Stack\Stack\obj\Debug\Stack.pdb
